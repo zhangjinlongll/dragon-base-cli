@@ -15,3 +15,7 @@ cd [program name]
 npm install
 npm run dev
 ```
+## 在项目中的启用调试
+```
+node ./bin/www [program name]
+```
